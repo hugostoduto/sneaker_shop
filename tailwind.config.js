@@ -32,8 +32,8 @@ export default {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
       },
       backgroundImage: {
-        'hero': "url('assets/images/v960-ning-29.jpg')",
-        'card': "url('assets/images/thumbnail-background.svg')",
+        'hero': "url('assets/images/VV.png')",
+        'card': "url('assets/images/VV.png')",
       },
       screens: {
         "wide": "1440px"
